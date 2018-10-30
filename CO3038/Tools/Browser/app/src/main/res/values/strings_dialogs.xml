@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="changelog_title">Changelog</string>
+    <string name="changelog_dialog">
+        &lt;i>Project site: https://github.com/scoute-dich/Browser&lt;br>
+        Changelog: https://github.com/scoute-dich/browser/blob/master/CHANGELOG.md&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Version: 6.0&lt;/b>&lt;br>
+        Please read the \"Help dialog\" for more information.&lt;br>&lt;br>
+
+        \u25AA updated: adBlock hosts list&lt;br>
+        \u25AA updated: Polish translation (thanks @gh-pmjm)&lt;br>
+        \u25AA fix: problems with characters like ä, ü, ö&lt;br>
+        \u25AA new: Taiwan Trad. Chinese translation (thanks @elmru)&lt;br>
+        \u25AA new: Italian translation (thanks @EnricoMonese)&lt;br>
+        \u25AA new: Portuguese translation (thanks @Sérgio Marques)&lt;br>
+        \u25AA many more fixes and improvements (thanks @BO41)
+    </string>
+
+    <string name="startpage_title">Startpage</string>
+    <string name="startpage_dialog">Here you can access all your data: saved sites on the startpage, bookmarks, history, saved
+        login data and the integrated file browser. In the settings you can decide which content will be shown at start.</string>
+
+    <string name="fastToggle_title">Fast toggle</string>
+    <string name="fastToggle_dialog">If you long press the \"menu\" or the \"Navigation button\" the \"Fast toggle dialog\"
+        will open. Here you can change some important settings without leaving the current website. You can also add websites
+        to your whitelist for AdBlocker, JavaScript or Cookies..</string>
+
+    <string name="toolbar_title">Toolbar</string>
+    <string name="toolbar_dialog">At the bottom of the screen you have the toolbar. You can enter URLs or search for
+        something, reload the website and open the menu. Long click on the \"menu button\" to open the \"Fast toggle menu\".
+        Swipe the toolbar up to open the tab preview. To switch between tabs swipe left or right.</string>
+
+    <string name="tab_title">Tab preview</string>
+    <string name="tab_dialog">Click the preview of a tab to select it, click again to close the tab preview. To close a tab simply
+        swipe to preview to the top or bottom.</string>
+
+    <string name="menu_title">Menu</string>
+    <string name="menu_dialog">Manage your tabs, share or save content, handle the current tab or use some features: just try it.
+        The menu can be dismissed, like all other notifications, by clicking back, clicking outside the menu or simply be
+        swiping the menu down.</string>
+
+    <string name="not_title">Notifications</string>
+    <string name="not_dialog">Notifications are displayed on the bottom of the screen. They can also be dismissed like the
+        menus.</string>
+
+    <string name="nav_title">Navigation</string>
+    <string name="nav_dialog">Use the \"Navigation Button\":
+        \n \u25AA Swipe up/down     \u2192  scroll to top/bottom;
+        \n \u25AA Swipe left/right  \u2192  navigate back/forward;
+        \n \u25AA Tap               \u2192  open the menu;
+        \n \u25AA Long press        \u2192  open \"Fast toggle dialog\";
+        \n \u25AA Double tap        \u2192  Hide the \"Navigation Button\"</string>
+
+    <string name="settings_dialog">There are even more options in the settings. Try it out!</string>
+
+
+    <string name="license_title">Copyright © 2017  by Gaukler Faun</string>
+    <string name="license_dialog">
+        &lt;i>For more information visit the project site on Github: https://github.com/scoute-dich/Browser&lt;/i>&lt;br>&lt;br>
+
+        This program is free software: you can redistribute it and/or modify
+        it under the terms of the GNU General Public License as published by
+        the Free Software Foundation, either version 3 of the License, or
+        (at your option) any later version.
+
+        This program is distributed in the hope that it will be useful,
+        but WITHOUT ANY WARRANTY; without even the implied warranty of
+        MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+        GNU General Public License for more details.
+
+        You should have received a copy of the GNU General Public License
+        along with this program.  If not, see http://www.gnu.org/licenses.&lt;br>&lt;br>
+
+        &lt;i>Following open source libraries or projects are used within this software:&lt;/i>&lt;br>&lt;br>&lt;br>
+
+        &lt;b>Android Sliding Up Panel&lt;/b>&lt;br>
+        Apache License Version 2.0&lt;br>
+        Umano: News Read To You&lt;br>
+        &lt;i>http://git.io/vUruG&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Android Swipe-to-Dismiss&lt;/b>&lt;br>
+        Apache License Version 2.0&lt;br>
+        Roman Nurik&lt;br>
+        &lt;i>http://git.io/vUruO&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>DynamicGrid&lt;/b>&lt;br>
+        Apache License Version 2.0&lt;br>
+        askerov&lt;br>
+        &lt;i>http://git.io/vTHZH&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Lightning Browser&lt;/b>&lt;br>
+        Mozilla Public License Version 2.0&lt;br>
+        Anthony Restaino&lt;br>
+        &lt;i>http://git.io/vUruk&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Material Design Icons&lt;/b>&lt;br>
+        SIL Open Font License, Version 1.1.&lt;br>
+        Templarian&lt;br>
+        &lt;i>https://github.com/Templarian/MaterialDesign&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Ninja&lt;/b>&lt;br>
+        Apache License Version 2.0&lt;br>
+        Matthew Lee&lt;br>
+        &lt;i>http://git.io/vUrEh&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>SimpleEncryptionLib&lt;/b>&lt;br>
+        Apache License Version 2.0&lt;br>
+        hummatli&lt;br>
+        &lt;i>https://github.com/hummatli/SimpleEncryptionLib</string>
+
+    <string name="cont_dialog">
+        &lt;i>First I would like to thank all people who contributed in any way on this project. They submitted issues,
+        translated or helped in any other way. On following sites you can become a active member of this
+        great community:&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>XDA-thread:&lt;/b>&lt;br>
+        XDA is a great community for developers and smartphone enthusiasts. Here you can report issues, ask for new features
+        and everything other related to \"FOSS Browser\".&lt;br>
+        &lt;i>https://forum.xda-developers.com/android/apps-games/app-browser-t3500091&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Github:&lt;/b>&lt;br>
+        On Github you can see the source code of \"FOSS Browser\". This is the more technical solution: open issues, ask for new
+        features or even help developing or translating.&lt;br>
+        &lt;i>https://github.com/scoute-dich/browser&lt;/i>&lt;br>&lt;br>&lt;br>
+
+
+        &lt;i>Following people contributed at this project. If I have forgotten anybody, please contact me:&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Gaukler Faun&lt;/b>&lt;br>
+        \u25AA Main developer and initiator of this project&lt;br>
+        &lt;i>https://github.com/scoute-dich&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>CGSLURP LLC&lt;/b>&lt;br>
+        \u25AA Helped to implement AdBlock and \"request desktop site\" in the previous version of \"FOSS Browser\".&lt;br>
+        &lt;i>https://github.com/futrDevelopment&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>element54&lt;/b>&lt;br>
+        \u25AA fix: keyboard problems (issue #105)&lt;br>
+        \u25AA new: option to disable confirmation dialogs on exit&lt;br>
+        &lt;i>https://github.com/element54&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>elmru&lt;/b>&lt;br>
+        \u25AA Taiwan Trad. Chinese Translation&lt;br>
+        &lt;i>https://github.com/kogiokka&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Enrico Monese&lt;/b>&lt;br>
+        \u25AA Italian Translation&lt;br>
+        &lt;i>https://github.com/EnricoMonese&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>gh-pmjm&lt;/b>&lt;br>
+        \u25AA Polish translation&lt;br>
+        &lt;i>https://github.com/gh-pmjm&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>gr1sh&lt;/b>&lt;br>
+        \u25AA fix: some German strings (issues #124, #131)&lt;br>
+        &lt;i>https://github.com/gr1sh&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Heimen Stoffels&lt;/b>&lt;br>
+        \u25AA Dutch translation&lt;br>
+        &lt;i>https://github.com/Vistaus&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Herman Nunez&lt;/b>&lt;br>
+        \u25AA Spanish translation&lt;br>
+        &lt;i>https://github.com/junior012&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Jumping Yang&lt;/b>&lt;br>
+        \u25AA Chinese translation in the previous version of \"FOSS Browser\"&lt;br>
+        &lt;i>https://github.com/JumpingYang001&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>lishoujun&lt;/b>&lt;br>
+        \u25AA Chinese translation&lt;br>
+        \u25AA bug hunting&lt;br>
+        &lt;i>https://github.com/lishoujun&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Secangkir Kopi&lt;/b>&lt;br>
+        \u25AA Indonesian translation&lt;br>
+        &lt;i>https://github.com/Secangkir-Kopi&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Sérgio Marques&lt;/b>&lt;br>
+        \u25AA Portuguese translation&lt;br>
+        &lt;i>https://github.com/smarquespt&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>splinet&lt;/b>&lt;br>
+        \u25AA Russian translation in the previous version of \"FOSS Browser\"&lt;br>
+        &lt;i>https://github.com/splinet&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>Vladimir Kosolapov&lt;/b>&lt;br>
+        \u25AA Russian translation&lt;br>
+        &lt;i>https://github.com/0x264f&lt;/i>&lt;br>&lt;br>
+
+        &lt;b>YC L&lt;/b>&lt;br>
+        \u25AA Chinese Translation&lt;br>
+        &lt;i>https://github.com/smallg0at&lt;/i>
+        
+    </string>
+
+</resources>
